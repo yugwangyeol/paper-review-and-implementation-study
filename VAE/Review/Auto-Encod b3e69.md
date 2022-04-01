@@ -45,7 +45,7 @@
     ![Auto-Encod%20b3e69/Untitled.png](Auto-Encod%20b3e69/Untitled.png)
     
     - Figure1; 우리가 고려하는 directed grphical model의 유형을 나타냄
-    - 실선은 generative model p_\theta(z)p_\theta(x|z)이며, 점선은 계산 불가능한 posterior$p_\theta(z|x)$로의 variational appoximation $q_\Phi(z|x)$를 나타낸다. variational parameters $\Phi$는 generative model parameters $\theta$와 함께 학습됨.
+    - 실선은 generative model $p_\theta(z)p_\theta(x|z)$이며, 점선은 계산 불가능한 posterior$p_\theta(z|x)$로의 variational appoximation $q_\Phi(z|x)$를 나타낸다. variational parameters $\Phi$는 generative model parameters $\theta$와 함께 학습됨.
     
 
 ## 2.1 Problem Scenario
