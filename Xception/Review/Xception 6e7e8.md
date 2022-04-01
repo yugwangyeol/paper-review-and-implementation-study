@@ -1,5 +1,7 @@
 # Xception
 
+https://www.notion.so/Xception-b5bdea4267724d9c97073d423b05f38a
+
 # Motivation
 
 - **Deep Neural Network**의 성능을 향상시키기 위한 가장 간단한 방법
