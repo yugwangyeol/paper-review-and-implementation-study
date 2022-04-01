@@ -1,5 +1,7 @@
 # SPPNET Prior Learning
 
+https://www.notion.so/SPPNET-Prior-Learning-4a50722fffec49088a7f9873c5ce8ac0
+
 # IOU(Intersection over Union)
 
 - Intersection over Union은 **object detector의 정확도를 측정하는데 이용되는 평가 지표**
