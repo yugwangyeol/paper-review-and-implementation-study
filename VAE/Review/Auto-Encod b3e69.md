@@ -1,5 +1,7 @@
 # Auto-Encoding Variational Bayes(VAE)
 
+https://www.notion.so/Auto-Encoding-Variational-Bayes-VAE-9f340fee45a1497998e23f771e69737b
+
 # 0.Abstract
 
 - 큰 데이터셋과 계산이 불가능한 posterior 분포를 가지는 연속형 잠재 변수를 가지고 있을 때, 어떻게 directed probabilistic model을 효율적으로 학습하고 추론할 수 있을까?
