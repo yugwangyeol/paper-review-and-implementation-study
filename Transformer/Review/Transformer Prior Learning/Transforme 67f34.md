@@ -1,5 +1,7 @@
 # Transformer Prior Learning(Attention)
 
+https://festive-impatiens-b9a.notion.site/Transformer-Prior-Learning-Attention-ea5828b58d1246fa964ecf1d6bfed707
+
 # Attention Mechanism
 
 1. Attention Mechanism의 정의
