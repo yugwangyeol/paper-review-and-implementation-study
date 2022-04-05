@@ -134,5 +134,5 @@ https://festive-impatiens-b9a.notion.site/Transformer-Prior-Learning-Attention-e
 [십분딥러닝_12_어텐션(Attention Mechanism)](https://www.youtube.com/watch?v=6aouXD8WMVQ)
 
 - Paper
--
+
 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
