@@ -1,5 +1,7 @@
 # Seq2Seq
 
+https://www.notion.so/Seq2Seq-dd400f0ce67541c2a29d22cbf9fa4aa9
+
 # Sequence to Sequence Learning with Nural Network(NIPS 2014)
 
 - 본 논문에서는 LSTM을 활용한 Seq2Seq 기계번역을 제안함
