@@ -1,5 +1,7 @@
 # Faster RCNN Prior Learning (Fast R-CNN)
 
+https://www.notion.so/Faster-RCNN-Prior-Learning-Fast-R-CNN-497cb7d30de6413095dbbc534246d8be
+
 # Faster RCNN
 
 - Fast R-CNN은  R-CNN과 SPPNet의 단점을 개선한 모델
