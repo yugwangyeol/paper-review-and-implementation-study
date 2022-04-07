@@ -1,5 +1,7 @@
 # Faster R-CNN
 
+https://festive-impatiens-b9a.notion.site/Faster-R-CNN-8112e131eb9f45688c52eed56e6653bc
+
 # Faster R-CNN
 
 - 기존의 모델들은 후보 영역 추출을 위해 사용되는 Selective search 알고리즘은 CPU 상에서 동작하고 이로 인해 네트워크에서 병목현상이 발생
