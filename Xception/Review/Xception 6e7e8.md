@@ -1,6 +1,6 @@
 # Xception
 
-https://www.notion.so/Xception-b5bdea4267724d9c97073d423b05f38a
+https://festive-impatiens-b9a.notion.site/Xception-b5bdea4267724d9c97073d423b05f38a
 
 # Motivation
 
