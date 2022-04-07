@@ -1,6 +1,6 @@
 # Faster RCNN Prior Learning (Fast R-CNN)
 
-https://www.notion.so/Faster-RCNN-Prior-Learning-Fast-R-CNN-497cb7d30de6413095dbbc534246d8be
+https://festive-impatiens-b9a.notion.site/Faster-RCNN-Prior-Learning-Fast-R-CNN-497cb7d30de6413095dbbc534246d8be
 
 # Faster RCNN
 
