@@ -1,6 +1,6 @@
 # SPPNET Prior Learning
 
-https://www.notion.so/SPPNET-Prior-Learning-4a50722fffec49088a7f9873c5ce8ac0
+https://festive-impatiens-b9a.notion.site/SPPNET-Prior-Learning-4a50722fffec49088a7f9873c5ce8ac0
 
 # IOU(Intersection over Union)
 
