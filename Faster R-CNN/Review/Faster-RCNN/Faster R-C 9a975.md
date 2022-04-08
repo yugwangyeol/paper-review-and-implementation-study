@@ -280,4 +280,4 @@ ex)
 
 - 깃허브
 
-[https://github.com/herbwood/pytorch_faster_r_cnn](https://github.com/herbwood/pytorch_faster_r_cnn)
+[https://github.com/wllvcxz/faster-rcnn-pytorch](https://github.com/wllvcxz/faster-rcnn-pytorch)
