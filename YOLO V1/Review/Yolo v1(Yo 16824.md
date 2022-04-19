@@ -1,6 +1,10 @@
 # Yolo v1(You Only Look Once:Unified, Real-Time Object Detection)
 
+https://www.notion.so/Yolo-v1-You-Only-Look-Once-Unified-Real-Time-Object-Detection-14a288d1f5614496b0db4b138ce36853
+
 # ****Object Detection의 두 가지 접근법****
+
+
 
 ## ****1. 2-stage Detector****
 
