@@ -1,5 +1,7 @@
 # Mobile Net
 
+https://www.notion.so/Mobile-Net-95ac902eed494cd2bc0fc1efc858d32a
+
 # Abstract
 
 - **MobileNet은 Depthwise separable convolution을 활용하여 모델을 경량화함**
